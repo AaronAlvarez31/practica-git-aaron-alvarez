@@ -1,0 +1,3 @@
+Creación y sincronización de repositorios con Git y GitHub
+
+En esta tarea para practicar git y GitHub vamos a repasar lo aprendido en clase.
