@@ -3,3 +3,5 @@ Creación y sincronización de repositorios con Git y GitHub
 En esta tarea para practicar git y GitHub vamos a repasar lo aprendido en clase.
 
 Esta ser una línea que hice directamente en GitHub al presionar editar RAMA.main (Este archivo fue modificado desde GitHub).
+
+Ahora modifique este documento en mi computadora (Este archivo fue modificado desde el repositorio local).
